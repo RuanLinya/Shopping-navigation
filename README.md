@@ -1,9 +1,6 @@
-# Webcam-based Magic Mirror in Unity and Blender using OpenPose 
-
-•Track the body of a user standing in front of a Webcam using OpenPose •Overlay anatomical models on the person and add educational labels on their anatomy
+# Shopping app
 
 ## Openpose
-
 
 ![image](https://github.com/RuanLinya/Webcam-based-Magic-Mirror/assets/133128176/4a62cd16-c9ca-487a-bac4-6d610886c47d)
 
