@@ -1,5 +1,8 @@
 # Shopping app
+
 <img width="720" alt="image" src="https://github.com/RuanLinya/Shopping-navigation/assets/133128176/d43f7d05-0b1c-42b5-a322-22dca5431785">
+
+
 ## Funktionen
 - gemeinsame Einkaufslisten
 - Planung der Einkaufsroute
