@@ -1,13 +1,28 @@
 # Shopping app
+<img width="720" alt="image" src="https://github.com/RuanLinya/Shopping-navigation/assets/133128176/d43f7d05-0b1c-42b5-a322-22dca5431785">
+## Funktionen
+- gemeinsame Einkaufslisten
+- Planung der Einkaufsroute
+- AR-Navigation 
+- Suche nach Services und Geschäften 
+- Suche nach Freunden und Bekannten in der Nähe
 
-## Openpose
 
-![image](https://github.com/RuanLinya/Webcam-based-Magic-Mirror/assets/133128176/4a62cd16-c9ca-487a-bac4-6d610886c47d)
+## Hardware
+- Smartphone (iOS / Android)
+- GPS
+- Kamera (AR)
 
-![image](https://github.com/RuanLinya/Webcam-based-Magic-Mirror/assets/133128176/41e6df3a-d4f7-4ecd-8d0b-d45c13d751ff)
+## Ein- und Ausgabegeräte
+- Touchbedienung
+- virtuelle Tastatur
+- Spracheingabe
 
-![image](https://github.com/RuanLinya/Webcam-based-Magic-Mirror/assets/133128176/35a79cee-c01c-455b-a4e1-9fd47c307cf7)
+![image](https://github.com/RuanLinya/Shopping-navigation/assets/133128176/1efb5f35-b54b-4d8c-9832-a30dd7b8b616)
 
-## Anatomy (Blender)
+##  Kommunikationsschnittstellen
+- Kartenmaterial (Google Maps / Navvis)
+- Standortdienste
+- Smartphone-Kamera
+- Kontaktliste
 
-![image](https://github.com/RuanLinya/Webcam-based-Magic-Mirror/assets/133128176/7260ba28-0f2e-4f84-95c4-5087d06272a1)
