@@ -29,6 +29,9 @@
 - Smartphone-Kamera
 - Kontaktliste
 
+## Contact
+E-mail: ruanlinya@gmail.com
+
 ##  Figma
 https://www.figma.com/proto/p0tZEfwdPbCQ99WAF6U7jx/Shopping-navigation?node-id=217-210&starting-point-node-id=4%3A2
 
